@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://katana:katana@katana.ovjgy.mongodb.net/social-network?retryWrites=true&w=majority"
+}
